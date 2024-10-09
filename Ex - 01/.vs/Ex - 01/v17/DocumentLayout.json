@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SENAI2EM\\Desktop\\BackEnd\\POO\\02 - Abstracao\\Exercicios\\Ex - 01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A95B7FF-BA2E-40D8-991E-169FD99BF8EF}|Ex - 01\\Ex - 01.csproj|c:\\users\\senai2em\\desktop\\backend\\poo\\02 - abstracao\\exercicios\\ex - 01\\ex - 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A95B7FF-BA2E-40D8-991E-169FD99BF8EF}|Ex - 01\\Ex - 01.csproj|solutionrelative:ex - 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A95B7FF-BA2E-40D8-991E-169FD99BF8EF}|Ex - 01\\Ex - 01.csproj|c:\\users\\senai2em\\desktop\\backend\\poo\\02 - abstracao\\exercicios\\ex - 01\\ex - 01\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A95B7FF-BA2E-40D8-991E-169FD99BF8EF}|Ex - 01\\Ex - 01.csproj|solutionrelative:ex - 01\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI2EM\\Desktop\\BackEnd\\POO\\02 - Abstracao\\Exercicios\\Ex - 01\\Ex - 01\\Livro.cs",
+              "RelativeDocumentMoniker": "Ex - 01\\Livro.cs",
+              "ToolTip": "C:\\Users\\SENAI2EM\\Desktop\\BackEnd\\POO\\02 - Abstracao\\Exercicios\\Ex - 01\\Ex - 01\\Livro.cs",
+              "RelativeToolTip": "Ex - 01\\Livro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:42:16.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI2EM\\Desktop\\BackEnd\\POO\\02 - Abstracao\\Exercicios\\Ex - 01\\Ex - 01\\Program.cs",
+              "RelativeDocumentMoniker": "Ex - 01\\Program.cs",
+              "ToolTip": "C:\\Users\\SENAI2EM\\Desktop\\BackEnd\\POO\\02 - Abstracao\\Exercicios\\Ex - 01\\Ex - 01\\Program.cs",
+              "RelativeToolTip": "Ex - 01\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:41:37.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
